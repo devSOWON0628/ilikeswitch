@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ilikeswitch", "ilikeswitch\ilikeswitch.csproj", "{75320F51-C59E-41A0-B461-D5ED3BAF711B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75320F51-C59E-41A0-B461-D5ED3BAF711B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75320F51-C59E-41A0-B461-D5ED3BAF711B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75320F51-C59E-41A0-B461-D5ED3BAF711B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75320F51-C59E-41A0-B461-D5ED3BAF711B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB2EBA0F-3CBC-4529-9116-18D9F7E09A69}
+	EndGlobalSection
+EndGlobal
